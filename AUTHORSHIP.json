@@ -1,0 +1,28 @@
+{
+  "schema": "authormark/manifest/1",
+  "algo": "hmac",
+  "author": "Srinivasan Vijayaraghavan",
+  "email": "srinivasan.shyam2000@gmail.com",
+  "github": "https://github.com/Srinivasan-78",
+  "sealedAt": "2026-09-10T13:40:00.320Z",
+  "fileCount": 3,
+  "digest": "9e1aa87ae53e1299cde57a2ebe1e90e93676cd93018508439b4eb0002806d7db",
+  "proof": "c1a23d2ca84ba49e5a00702f60f4b6bfe9ad79ce54482eceeeb1f30020fc3d7f",
+  "files": [
+    {
+      "path": ".github/workflows/authormark.yml",
+      "sha256": "ac8474923b61566b24e44a562f486a36dc2002cdcd51a26b3af316432bbecf3a",
+      "bytes": 1285
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "6f4bb78900bf58971b266a4df35ff4137cd210494cc71089ecc7f3feb6130012",
+      "bytes": 1511
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "a4f80ec424ce2382e519318c7cdbc38276dc8575a452e566c67f21c1eb0ca882",
+      "bytes": 822
+    }
+  ]
+}
